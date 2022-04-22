@@ -5,6 +5,7 @@
     <classes>
       <class name="com.cimb.qa.testcases.TestCase1"/>
       <class name="com.cimb.qa.testcases.TestCase2"/>
+      <class name="com.cimb.qa.testcases.CreateProjectAPI"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
